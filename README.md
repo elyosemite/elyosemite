@@ -100,10 +100,31 @@
 <br/>
 <br/>
 
+<h2>Messaging Technologies</h2>
+
+<img align="left" alt="Apache kafka" height="32px" src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white"/>
+<img align="left" alt="RabbitMQ" height="32px" src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white"/>
+<br/>
+<br/>
+<br/>
+
 <h2>Web API Manipulating Technologies</h2>
 
 <img align="left" alt="Postman" height="32px" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/>
 <img align="left" alt="Insomnia" height="32px" src="https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white"/>
+<br/>
+<br/>
+<br/>
+
+<h2>Wanted Editors <3</h2>
+
+<img align="left" alt="Apache Netbeans" height="32px" src="https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white"/>
+<img align="left" alt="Eclipse" height="32px" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>
+<img align="left" alt="Neovim" height="32px" src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/>
+<img align="left" alt="Sublime Text" height="32px" src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important"/>
+<img align="left" alt="Vim" height="32px" src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white"/>
+<img align="left" alt="Visual Studio" height="32px" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
+<img align="left" alt="Visual Studio Code" height="32px" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 <br/>
 <br/>
 <br/>
