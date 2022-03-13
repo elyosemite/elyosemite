@@ -47,7 +47,7 @@
 <img align="left" alt="PostgreSQL" height="32px" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <br/>
 <br/>
-<h3>SQL Databases</h3>
+<h3>NoSQL Databases</h3>
 <img align="left" alt="MongoDB" height="32px" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img align="left" alt="Redis" height="32px" src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white"/>
 
