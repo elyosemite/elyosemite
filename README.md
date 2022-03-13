@@ -2,12 +2,17 @@
 
 <p align="center">Completely in love Jesus Christ, reading, studying, chemistry, computing, programming, coffee and languages - Korean, Russian, English and Portuguese <3.</b> </p>
 
-#### You can find me here:
+<h2>Connect me to</h2>
 
-[ <img align="left" alt="yuridsm | Gmail"  src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:juliomiguelsouzacosta@gmail.com" />][gmail]
-[ <img align="left" alt="yuridsm | Telegram"  src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=flat&logo=instagram&logoColor=white"/>][instagram]
+<img align="left" alt="Gmail" height="32px" src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:yurifullstack@gmail.com"/>
+<img align="left" alt="Instagram" height="32px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=oyuridsm"/>
+<img align="left" alt="LinkedIn" height="32px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/yuridsm/"/>
+<img align="left" alt="Discord" height="32px" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+<img align="left" alt="Microsoft Teams" height="32px" src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white"/>
+<img align="left" alt="Slack" height="32px" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
 
-<br />
+<br/>
+<br/>
 
 <h2>Backend Technologies</h2>
 
@@ -42,10 +47,11 @@
 <img align="left" alt="SQL Server" height="32px" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
 <img align="left" alt="PostgreSQL" height="32px" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <br/>
-
-<h3>NoSQL Databases</h3>
+<br/>
+<h3>SQL Databases</h3>
 <img align="left" alt="MongoDB" height="32px" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img align="left" alt="Redis" height="32px" src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white"/>
+
 <br/>
 <br/>
 <br/>
@@ -60,9 +66,11 @@
 <img align="left" alt="Linux Manjaro" height="32px" src="https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white">
 <img align="left" alt="Linux Ubuntu" height="32px" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
 <br/>
+<br/>
 
 <h3>BSD</h3>
 <img align="left" alt="FreeBSD" height="32px" src="https://img.shields.io/badge/freebsd-AB2B28?style=for-the-badge&logo=freebsd&logoColor=white">
+<br/>
 <br/>
 
 <h3>Windows</h3>
