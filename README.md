@@ -81,13 +81,29 @@
 <br/>
 <br/>
 
-
-<h2>Cloud Computing</h2>
-
+<h2>Cloud Computing and </h2>
 <img align="left" alt="Digital Ocean" height="32px" src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white"/>
 <img align="left" alt="Heroku" height="32px" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
 <img align="left" alt="Google Cloud Platform" height="32px" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+<img align="left" alt="Docker" height="32px" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
+<img align="left" alt="Kubernetes" height="32px" src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/>
 
+<br/>
+<br/>
+<br/>
+
+<h2>Containerization and Orchestration Technologies</h2>
+<img align="left" alt="Docker" height="32px" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
+<img align="left" alt="Kubernetes" height="32px" src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/>
+
+<br/>
+<br/>
+<br/>
+
+<h2>Web API Manipulating Technologies</h2>
+
+<img align="left" alt="Postman" height="32px" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/>
+<img align="left" alt="Insomnia" height="32px" src="https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white"/>
 <br/>
 <br/>
 <br/>
