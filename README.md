@@ -4,12 +4,13 @@
 
 <h2>Connect me to</h2>
 
-<a href="mailto:yurifullstack@gmail.com"><img target="_black" align="left" alt="Gmail" height="32px" src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:yurifullstack@gmail.com"/></a>
-<img align="left" alt="Instagram" height="32px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=oyuridsm"/>
-<img align="left" alt="LinkedIn" height="32px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/yuridsm/"/>
-<img align="left" alt="Discord" height="32px" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-<img align="left" alt="Microsoft Teams" height="32px" src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white"/>
-<img align="left" alt="Slack" height="32px" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
+<a href="mailto:yurifullstack@gmail.com"><img target="_black" align="left" alt="Gmail" height="32px" src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/oyuridsm/"><img align="left" alt="Instagram" height="32px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/yuridsm/"><img align="left" alt="LinkedIn" height="32px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="#"><img align="left" alt="Discord" height="32px" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+<a href="#"><img align="left" alt="Microsoft Teams" height="32px" src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white"/></a>
+<a href="#"><img align="left" alt="Slack" height="32px" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/></a>
+<a href="#"><img align="left" alt="Telegram" height="32px" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 
 <br/>
 <br/>
