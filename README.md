@@ -9,6 +9,7 @@
 <a href="https://www.linkedin.com/in/yuridsm/"><img align="left" alt="LinkedIn" height="32px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://discordapp.com/users/730026893600096278"><img align="left" alt="Discord" height="32px" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
 <a href="https://t.me/oyuridsm"><img align="left" alt="Telegram" height="32px" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<a href="https://t.me/oyuridsm"><img align="left" alt="Teams" height="32px" src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white"/></a>
 
 <br/>
 <br/>
