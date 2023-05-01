@@ -1,7 +1,7 @@
 ﻿<h2 align="center">I am Yuri Melo</h2>
 
 <div align="center">
-  <img src="/raining.jpg"/>
+  <img src="/raining.gif"/>
 </div>
 
 <p align="center">Completely in love Jesus Christ, reading, studying, chemistry, computing, programming, coffee and languages - Korean, Russian, English and Portuguese <3.</b> </p>
