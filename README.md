@@ -30,12 +30,8 @@
 <center>
 <table>
   <tr>
-    <td><img width="440px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuridsm&langs_count=18&layout=compact&theme=blueberry" /></td>
-    <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=yuridsm&theme=blueberry&show_icons=true&count_private=true&include_all_commits=true&hide_title=true" /></td>
+    <td><img width="440px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuridsm&langs_count=10&layout=compact&theme=blueberry" /></td>
+    <td><img width="400px" align="right" src="https://github-readme-stats.vercel.app/api?username=yuridsm&theme=blueberry&show_icons=true&count_private=true&include_all_commits=true&hide_title=true" /></td>
   </tr>  
 </table>
 </center>
-
-[twitter]: https://twitter.com/Eu_YuriMelo
-[gmail]: mailto:yurifullstack@gmailcom
-[instagram]: https://www.instagram.com/yuri_eq
