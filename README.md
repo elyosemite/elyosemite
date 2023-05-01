@@ -14,7 +14,7 @@
 - 📫 How to reach me: LinkedIn
 - ⚡ Fun fact: I love coffee
 
-<h2>Technologies</h2>
+## Technologies
 <img align="left" alt=".NET" height="32px" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
 <img align="left" alt="Typescript" height="32px" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img align="left" alt="C#" height="32px" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
@@ -26,7 +26,7 @@
 <br/>
 <br/>
 
-#### Recent Activities
+# Recent Activities
 <center>
 <table>
   <tr>
