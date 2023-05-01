@@ -36,53 +36,6 @@
   </tr>  
 </table>
 </center>
-
-<details>
-    <summary>📃 Curriculum</summary>
-
-## Education
-
-- 📖 **Computing Technician**
-    
-    📆 2013 - 2017
-
-    📍 **Federal Institute of Alagoas** - Arapiraca, Alagoas, Brasil
-
-- 📖 **Petroleum and Gas Engineering**
-    
-    📆 2018 - 2019
-
-    📍 **Federal University of Alagoas** - Maceió, Alagoas, Brasil [Move to C.E.]
-
-
-- 📖 **Chemical Engineering**
-    
-    📆 2019 - 201?
-
-    📍 **Federal University of Alagoas** - Maceió, Alagoas, Brasil
-
-## Experience
-
-- 👨‍💻 Matlab Developer in Federal University of Alagoas
-
-    📆 jan 2018 - 2019
-   
-- 👨‍💻 Backend Developer
-
-    📆 jan 2020 - 202?
-
-    📍 **PlusSoft** - Arapiraca, Alagoas, Brasil
-    Working with TypeScript
-
-- 👨‍💻 Intelitrader
-
-    📆 Oct 2020 - 202?
-    Working with C#
-
-</details>
-
-
-
 <!--
 **yuridsm/yuridsm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
