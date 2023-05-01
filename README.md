@@ -28,10 +28,10 @@
 
 # Recent Activities
 <center>
-<table>
-  <tr>
-    <td><img width-max="30%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuridsm&langs_count=10&layout=compact&theme=shades-of-purple" /></td>
-    <td><img width="400px" align="right" src="https://github-readme-stats.vercel.app/api?username=yuridsm&theme=shades-of-purple&show_icons=true&count_private=true&include_all_commits=true&hide_title=true" /></td>
+<table width-max="100%">
+  <tr width-max="100%">
+    <td><img width-max="100%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuridsm&langs_count=10&layout=compact&theme=shades-of-purple" /></td>
+    <td><img width-max="100%" align="right" src="https://github-readme-stats.vercel.app/api?username=yuridsm&theme=shades-of-purple&show_icons=true&count_private=true&include_all_commits=true&hide_title=true" /></td>
   </tr>  
 </table>
 </center>
