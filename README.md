@@ -1,10 +1,10 @@
 <h2 align="center">I am Yuri Melo</h2>
 
+<p align="center">Completely in love Jesus Christ, reading, studying, chemistry, computing, programming, coffee and languages - Korean, Russian, English and Portuguese <3.</b> </p>
+
 <div align="center">
   <img src="/raning.gif"/>
 </div>
-
-<p align="center">Completely in love Jesus Christ, reading, studying, chemistry, computing, programming, coffee and languages - Korean, Russian, English and Portuguese <3.</b> </p>
 
 # About me
 - 🔭 I’m currently working on Open Source Project
@@ -30,8 +30,8 @@
 <center>
 <table>
   <tr>
-    <td><img width-max="100%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuridsm&langs_count=10&layout=compact&theme=shades-of-purple" /></td>
-    <td><img width-max="100%" align="right" src="https://github-readme-stats.vercel.app/api?username=yuridsm&theme=shades-of-purple&show_icons=true&count_private=true&include_all_commits=true&hide_title=true" /></td>
+    <td><img width="100%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuridsm&langs_count=10&layout=compact&theme=shades-of-purple" /></td>
+    <td><img width="100%" align="right" src="https://github-readme-stats.vercel.app/api?username=yuridsm&theme=shades-of-purple&show_icons=true&count_private=true&include_all_commits=true&hide_title=true" /></td>
   </tr>  
 </table>
 </center>
