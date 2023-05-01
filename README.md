@@ -1,12 +1,14 @@
-﻿<h2 align="center">Hey, I'm Yuri Melo</h2>
+﻿<h2 align="center">I am Yuri Melo</h2>
 
 <p align="center">Completely in love Jesus Christ, reading, studying, chemistry, computing, programming, coffee and languages - Korean, Russian, English and Portuguese <3.</b> </p>
 
-<h2>Connect me to</h2>
-
-<a href="https://www.linkedin.com/in/yuridsm/"><img align="left" alt="LinkedIn" height="32px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<br/>
-<br/>
+# About me
+- 🔭 I’m currently working on Open Source Project
+- 🌱 I’m currently learning Elixir and Go languages
+- 👯 I’m looking to collaborate on `Bitwarden`
+- 💬 Ask me about computing
+- 📫 How to reach me: LinkedIn
+- ⚡ Fun fact: I love coffee
 
 <h2>Technologies</h2>
 
@@ -36,20 +38,6 @@
   </tr>  
 </table>
 </center>
-<!--
-**yuridsm/yuridsm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 [twitter]: https://twitter.com/Eu_YuriMelo
 [gmail]: mailto:yurifullstack@gmailcom
