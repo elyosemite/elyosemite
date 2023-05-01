@@ -1,16 +1,10 @@
-﻿<h2 align="center">Hey, I'm Yuri Melo!</h2>
+﻿<h2 align="center">Hey, I'm Yuri Melo</h2>
 
 <p align="center">Completely in love Jesus Christ, reading, studying, chemistry, computing, programming, coffee and languages - Korean, Russian, English and Portuguese <3.</b> </p>
 
 <h2>Connect me to</h2>
 
-<a href="mailto:yurifullstack@gmail.com"><img target="_black" align="left" alt="Gmail" height="32px" src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/oyuridsm/"><img align="left" alt="Instagram" height="32px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/yuridsm/"><img align="left" alt="LinkedIn" height="32px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://discordapp.com/users/730026893600096278"><img align="left" alt="Discord" height="32px" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
-<a href="https://t.me/oyuridsm"><img align="left" alt="Telegram" height="32px" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-<a href="https://teams.microsoft.com/l/chat/0/0?users=yuri.ifal.melo@hotmail.com"><img align="left" alt="Teams" height="32px" src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white"/></a>
-
 <br/>
 <br/>
 
