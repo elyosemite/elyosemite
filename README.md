@@ -8,8 +8,7 @@
 
 # About me
 - 🔭 I’m currently working on Open Source Project
-- 🌱 I’m currently learning Elixir and Go languages
-- 👯 I’m looking to collaborate on `Bitwarden`
+- 🌱 I’m currently learning Haskell and C++ languages
 - 💬 Ask me about computing
 - 📫 How to reach me: LinkedIn
 - ⚡ Fun fact: I love coffee
