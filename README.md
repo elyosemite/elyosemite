@@ -8,7 +8,7 @@
 
 # About me
 - 🔭 I’m currently working on Open Source Project
-- 🌱 I’m currently learning Haskell and C++ languages
+- 🌱 I’m currently learning Haskell, C++ and Go languages
 - 💬 Ask me about computing
 - 📫 How to reach me: LinkedIn
 - ⚡ Fun fact: I love coffee
