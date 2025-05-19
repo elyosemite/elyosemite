@@ -28,7 +28,7 @@
 <center>
 <table>
   <tr>
-    <td><img width="100%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elyosemite&langs_count=10&layout=compact&theme=shades-of-purple" /></td>
+    <td><img width="100%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elyosemite&langs_count=20&layout=compact&theme=shades-of-purple" /></td>
     <td><img width="100%" align="right" src="https://github-readme-stats.vercel.app/api?username=elyosemite&theme=shades-of-purple&show_icons=true&count_private=true&include_all_commits=true&hide_title=true" /></td>
   </tr>  
 </table>
