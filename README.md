@@ -8,7 +8,7 @@
 
 # About me
 - 🔭 I’m currently working on Open Source Project
-- 🌱 I’m currently learning Haskell, C++ and Go languages
+- 🌱 I’m currently learning `Haskell`, `C++` and `Go` languages
 - 💬 Ask me about computing
 - 📫 How to reach me: LinkedIn
 - ⚡ Fun fact: I love coffee
@@ -19,7 +19,7 @@
 <img align="left" alt="Haskell" height="32px" src="https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white"/>
 <img align="left" alt="Go" height="32px" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
 <img align="left" alt="C++" height="32px" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-<img align="left" alt="C" height="32px" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+<img align="left" alt="Elixir" height="32px" src="https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white">
 <br/>
 <br/>
 <br/>
