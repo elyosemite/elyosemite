@@ -29,7 +29,7 @@
 <table>
   <tr>
     <td><img width="100%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elyosemite&langs_count=20&layout=compact&theme=default" /></td>
-    <td><img width="100%" align="right" src="https://github-readme-stats.vercel.app/api?username=elyosemite&theme=default&show_icons=true&count_private=true&include_all_commits=true&hide_title=true" /></td>
+    <td><img width="100%" align="right" src="https://github-readme-stats.vercel.app/api?username=elyosemite&theme=default#gh-light-mode-only&show_icons=true&count_private=true&include_all_commits=true&hide_title=true" /></td>
   </tr>  
 </table>
 </center>
