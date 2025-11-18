@@ -1,6 +1,6 @@
 <h2 align="left">Hey, Yuri Melo Here</h2>
 
-> Passionate about <b>Jesus Christ</b>, continuous learning, reading, chemistry, computing, programming, coffee, and languages — currently diving into Korean, Russian, English, and Portuguese.
+> Driven by faith and an insatiable curiosity, I build elegant software solutions, push physical boundaries at the gym, and bridge cultures through languages—currently learning French alongside my native Portuguese. Fueled by coffee, inspired by great books and the bible, and guided by purpose: to grow continuously and create lasting impact through technology.
 
 ## About Me
 - Senior Software Engineer with a strong focus on **Software Architecture** and **Distributed Systems**
@@ -36,6 +36,7 @@
 - I thrive at the intersection of **theory and practice**: applying solid principles to real-world engineering problems.  
 - Deeply inspired by **system thinking**, **scalability challenges**, and the **art of writing maintainable code**.  
 - I believe great software comes from collaboration, curiosity, and craftsmanship.  
+
 
 
 
