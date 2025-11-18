@@ -9,7 +9,7 @@
 - Currently contributing to **[UltraSpeedBus](https://github.com/elyosemite/UltraSpeedBus)**
 - Always learning — right now exploring `Haskell`, `C++`, and `Go`  
 - Happy to discuss: software design, systems architecture, programming languages, and all things computing  
-- Reach me on **[LinkedIn]([#](https://www.linkedin.com/in/yuridsm/))**
+- Reach me on **[LinkedIn]((https://www.linkedin.com/in/yuridsm/))**
 - Follow me on **[X](https://x.com/theyurimelo)**
 - Level up your as a software engineer **[Joining to Averin on Discord](https://discord.gg/nMAdUfcSKc)**
 - Fun fact: Coffee is my favorite debugging tool
@@ -36,5 +36,6 @@
 - I thrive at the intersection of **theory and practice**: applying solid principles to real-world engineering problems.  
 - Deeply inspired by **system thinking**, **scalability challenges**, and the **art of writing maintainable code**.  
 - I believe great software comes from collaboration, curiosity, and craftsmanship.  
+
 
 
