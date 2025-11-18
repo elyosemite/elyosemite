@@ -1,10 +1,6 @@
-<h2 align="center">Hey, Yuri Melo Here</h2>
+<h2 align="left">Hey, Yuri Melo Here</h2>
 
-<p align="center">
-  Passionate about <b>Jesus Christ</b>, continuous learning, reading, chemistry, computing, programming, coffee, and languages — currently diving into Korean, Russian, English, and Portuguese.  
-</p>
-
----
+> Passionate about <b>Jesus Christ</b>, continuous learning, reading, chemistry, computing, programming, coffee, and languages — currently diving into Korean, Russian, English, and Portuguese.
 
 ## About Me
 - Senior Software Engineer with a strong focus on **Software Architecture** and **Distributed Systems**
@@ -40,4 +36,5 @@
 - I thrive at the intersection of **theory and practice**: applying solid principles to real-world engineering problems.  
 - Deeply inspired by **system thinking**, **scalability challenges**, and the **art of writing maintainable code**.  
 - I believe great software comes from collaboration, curiosity, and craftsmanship.  
+
 
