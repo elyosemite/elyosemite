@@ -20,7 +20,7 @@
   <table>
     <tr>
       <td>
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elyosemite&langs_count=7&layout=compact&theme=gruvbox"/>
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elyosemite&langs_count=8&layout=compact&theme=gruvbox"/>
       </td>
       <td>
         <img width="100%" src="https://github-readme-stats.vercel.app/api?username=elyosemite&theme=gruvbox&show_icons=true&count_private=true&include_all_commits=true&hide_title=true"/>
@@ -35,6 +35,7 @@
 - I thrive at the intersection of **theory and practice**: applying solid principles to real-world engineering problems.  
 - Deeply inspired by **system thinking**, **scalability challenges**, and the **art of writing maintainable code**.  
 - I believe great software comes from collaboration, curiosity, and craftsmanship.
+
 
 
 
