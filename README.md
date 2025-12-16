@@ -15,6 +15,15 @@
 - Fun fact: Coffee is my favorite debugging tool
 ---
 
+## Projects that I working
+|  Projec |  Description | Languages |
+|---|---|---|
+| [UltraSpeedBus](https://github.com/elyosemite/UltraSpeedBus.git) | Ultra Speed Bus Messaging for Distributed Systems in .NET | `.NET C#` |
+| [Elyosemite-nvim](https://github.com/elyosemite/elyosemite-nvim) | Neovim configurations for Geeks | `Lua` |
+| [clojure-noob](https://github.com/elyosemite/clojure-noob) | Learning Clojure Programming Language | `Clojure` |
+| [AthenaLibraryAPI](https://github.com/elyosemite/AthenaLibraryAPI) | API for Athena's Library | `Python`, `FastAPI` |
+| [Westminster](https://github.com/elyosemite/westminster) | Westminster is a Haskell-based project aiming to implement Domain-Driven Design (DDD) and Clean Architecture principles. This repository serves as a structured foundation for building maintainable, scalable, and highly cohesive applications using functional programming. | `Haskell` |
+
 ## Recent Activities
 <div align="center">
   <table>
@@ -35,6 +44,7 @@
 - I thrive at the intersection of **theory and practice**: applying solid principles to real-world engineering problems.  
 - Deeply inspired by **system thinking**, **scalability challenges**, and the **art of writing maintainable code**.  
 - I believe great software comes from collaboration, curiosity, and craftsmanship.
+
 
 
 
