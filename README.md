@@ -7,7 +7,7 @@
 - Technical Writer to **[Averin Newsletter](https://yurimelo.substack.com/)**.
 - Experienced `.NET C#`, `TypeScript`, `Python` and other languages
 - Currently contributing to **[UltraSpeedBus](https://github.com/elyosemite/UltraSpeedBus)**
-- Always learning — right now exploring `Clojure`
+- Always learning — right now exploring `Clojure` & `F#`
 - Happy to discuss: software design, systems architecture, programming languages, and all things computing  
 - Reach me on **[LinkedIn](https://www.linkedin.com/in/yuridsm/)**
 - Follow me on **[X](https://x.com/theyurimelo)**
@@ -19,7 +19,8 @@
 |  Projec |  Description | Languages |
 |---|---|---|
 | [AthenaLibraryAPI](https://github.com/elyosemite/AthenaLibraryAPI) | API for Athena's Library | `Python`, `FastAPI` |
-| [UltraSpeedBus](https://github.com/elyosemite/UltraSpeedBus.git) | Ultra Speed Bus Messaging for Distributed Systems in .NET | `.NET C#` |
+| [UltraSpeedBus](https://github.com/elyosemite/UltraSpeedBus.git) | Ultra Speed Bus Messaging for Distributed Systems in .NET | `C#` |
+| [MarkdownToHtml](https://github.com/elyosemite/MarkdownToHtml) | Markdown to HTML Parser | `F#` |
 | [Elyosemite-nvim](https://github.com/elyosemite/elyosemite-nvim) | Neovim configurations for Geeks | `Lua` |
 | [clojure-noob](https://github.com/elyosemite/clojure-noob) | Learning Clojure Programming Language | `Clojure` |
 | [Westminster](https://github.com/elyosemite/westminster) | Westminster is a Haskell-based project aiming to implement Domain-Driven Design (DDD) and Clean Architecture principles. This repository serves as a structured foundation for building maintainable, scalable, and highly cohesive applications using functional programming. | `Haskell` |
@@ -44,6 +45,7 @@
 - I thrive at the intersection of **theory and practice**: applying solid principles to real-world engineering problems.  
 - Deeply inspired by **system thinking**, **scalability challenges**, and the **art of writing maintainable code**.  
 - I believe great software comes from collaboration, curiosity, and craftsmanship.
+
 
 
 
