@@ -15,7 +15,7 @@
 - Fun fact: Coffee is my favorite debugging tool
 ---
 
-## Projects that I working
+## Projects that I've been working
 |  Projec |  Description | Languages |
 |---|---|---|
 | [AthenaLibraryAPI](https://github.com/elyosemite/AthenaLibraryAPI) | API for Athena's Library | `Python`, `FastAPI` |
@@ -45,6 +45,7 @@
 - I thrive at the intersection of **theory and practice**: applying solid principles to real-world engineering problems.  
 - Deeply inspired by **system thinking**, **scalability challenges**, and the **art of writing maintainable code**.  
 - I believe great software comes from collaboration, curiosity, and craftsmanship.
+
 
 
 
