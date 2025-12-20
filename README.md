@@ -24,33 +24,9 @@
 | [Elyosemite-nvim](https://github.com/elyosemite/elyosemite-nvim) | Neovim configurations for Geeks | `Lua` |
 | [clojure-noob](https://github.com/elyosemite/clojure-noob) | Learning Clojure Programming Language | `Clojure` |
 | [Westminster](https://github.com/elyosemite/westminster) | Westminster is a Haskell-based project aiming to implement Domain-Driven Design (DDD) and Clean Architecture principles. This repository serves as a structured foundation for building maintainable, scalable, and highly cohesive applications using functional programming. | `Haskell` |
-
-## Recent Activities
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elyosemite&langs_count=8&layout=compact&theme=gruvbox"/>
-      </td>
-      <td>
-        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=elyosemite&theme=gruvbox&show_icons=true&count_private=true&include_all_commits=true&hide_title=true"/>
-      </td>
-    </tr>  
-  </table>
-</div>
-
 ---
 
 ## More About Me
 - I thrive at the intersection of **theory and practice**: applying solid principles to real-world engineering problems.  
 - Deeply inspired by **system thinking**, **scalability challenges**, and the **art of writing maintainable code**.  
 - I believe great software comes from collaboration, curiosity, and craftsmanship.
-
-
-
-
-
-
-
-
-
