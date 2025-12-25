@@ -15,6 +15,14 @@
 - Fun fact: Coffee is my favorite debugging tool
 ---
 
+# Reading Recommendations for you
+- [Python Decorators: A Beginner's Guide for Insurance and Financial Systems](https://yurimelo.substack.com/p/python-decorators-a-beginners-guide)
+- [Message Delivery Guarantees in Distributed Systems](https://yurimelo.substack.com/p/message-delivery-guarantees-in-distributed)
+- [What is Entity in Domain-Driven Design?](https://yurimelo.substack.com/p/what-is-entity-in-domain-driven-design)
+- [Why Software Engineers Fail When Starting with Microservices](https://yurimelo.substack.com/p/why-software-engineers-fail-when)
+
+---
+
 ## Projects that I've been working
 |  Projec |  Description | Languages |
 |---|---|---|
@@ -31,4 +39,5 @@
 - I thrive at the intersection of **theory and practice**: applying solid principles to real-world engineering problems.  
 - Deeply inspired by **system thinking**, **scalability challenges**, and the **art of writing maintainable code**.  
 - I believe great software comes from collaboration, curiosity, and craftsmanship.
+
 
