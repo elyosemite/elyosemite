@@ -24,9 +24,11 @@
 | [Elyosemite-nvim](https://github.com/elyosemite/elyosemite-nvim) | Neovim configurations for Geeks | `Lua` |
 | [clojure-noob](https://github.com/elyosemite/clojure-noob) | Learning Clojure Programming Language | `Clojure` |
 | [Westminster](https://github.com/elyosemite/westminster) | Westminster is a Haskell-based project aiming to implement Domain-Driven Design (DDD) and Clean Architecture principles. This repository serves as a structured foundation for building maintainable, scalable, and highly cohesive applications using functional programming. | `Haskell` |
+| [Ironman](https://github.com/elyosemite/ironman) | This repository was created for studies purpose in Rust Language. | `Rust` |
 ---
 
 ## More About Me
 - I thrive at the intersection of **theory and practice**: applying solid principles to real-world engineering problems.  
 - Deeply inspired by **system thinking**, **scalability challenges**, and the **art of writing maintainable code**.  
 - I believe great software comes from collaboration, curiosity, and craftsmanship.
+
