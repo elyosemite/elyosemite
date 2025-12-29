@@ -7,7 +7,7 @@
 - Technical Writer to **[Averin Newsletter](https://yurimelo.substack.com/)**.
 - Experienced `.NET C#`, `TypeScript`, `Python` and other languages
 - Currently contributing to **[UltraSpeedBus](https://github.com/elyosemite/UltraSpeedBus)**
-- Always learning — right now exploring `Clojure` & `F#`
+- Always learning — right now exploring `Clojure` & `Rust`
 - Happy to discuss: software design, systems architecture, programming languages, and all things computing  
 - Reach me on **[LinkedIn](https://www.linkedin.com/in/yuridsm/)**
 - Follow me on **[X](https://x.com/theyurimelo)**
@@ -39,5 +39,6 @@
 - I thrive at the intersection of **theory and practice**: applying solid principles to real-world engineering problems.  
 - Deeply inspired by **system thinking**, **scalability challenges**, and the **art of writing maintainable code**.  
 - I believe great software comes from collaboration, curiosity, and craftsmanship.
+
 
 
