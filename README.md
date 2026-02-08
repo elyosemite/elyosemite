@@ -26,6 +26,7 @@
 ## Projects that I've been working
 |  Project |  Description | Languages |
 |---|---|---|
+| [Outfocus CLI](https://github.com/elyosemite/OutFocusCLI) | Talk to your n8n agents with Outfocus CLI | `Python` |
 | [AthenaLibraryAPI](https://github.com/elyosemite/AthenaLibraryAPI) | API for Athena's Library | `Python`, `FastAPI` |
 | [UltraSpeedBus](https://github.com/elyosemite/UltraSpeedBus.git) | Ultra Speed Bus Messaging for Distributed Systems in .NET | `C#` |
 | [MarkdownToHtml](https://github.com/elyosemite/MarkdownToHtml) | Markdown to HTML Parser | `F#` |
@@ -39,6 +40,7 @@
 - I thrive at the intersection of **theory and practice**: applying solid principles to real-world engineering problems.  
 - Deeply inspired by **system thinking**, **scalability challenges**, and the **art of writing maintainable code**.  
 - I believe great software comes from collaboration, curiosity, and craftsmanship.
+
 
 
 
