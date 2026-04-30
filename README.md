@@ -1,6 +1,6 @@
 <h2 align="left">Hey, Yuri Melo (El Yosemite)</h2>
 
-> *Driven by faith and an insatiable curiosity, I build elegant software solutions, push physical boundaries at the gym, and bridge cultures through languages—currently learning French. Fueled by coffee, inspired by great books and the bible, and guided by purpose: to grow continuously and create lasting impact through technology.*
+> *Driven by faith and an insatiable curiosity, I have built elegant software solutions, push physical boundaries at the gym, and bridge cultures through languages—currently learning French. Fueled by coffee, inspired by great books and the bible, and guided by purpose: to grow continuously and create lasting impact through technology.*
 
 ## About Me
 - Staff Software Engineer with a strong focus on **Software Architecture** and **Distributed Systems**
